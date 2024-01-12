@@ -1,0 +1,6 @@
+build/*
+!/build/.gitkeep
+.env
+_data/
+.env.production
+**/.direnv
